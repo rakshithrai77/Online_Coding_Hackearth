@@ -1,1 +1,1 @@
-online coding solutions!
+This repository consists of coding of solutions from hackerearth questions
